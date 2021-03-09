@@ -11,8 +11,8 @@ const aboutMe = {
     pronouns: "He" | "Him",
     university: "Ha Noi university of science and technology (HUST)",
     code: ["PHP", "Javascript", "Python"],
-    framework:["Laravel", "Django", "Django REST framework"],
-    askMeAbout: ["web dev", "tech","micrioservice"],
+    framework:["Laravel", "Django", "Django REST framework",'Nestjs"],
+    askMeAbout: ["web dev", "tech","micrioservices","education"],
     technologies: {
         frontEnd: {
             html: ["HTML5"],
@@ -50,7 +50,7 @@ const aboutMe = {
         },
     ],
     netWorks: {
-        fb: [Đinh Lê Long](https://www.facebook.com/nghiemtientuantnt),
+        fb: [Đinh Lê Long](https://www.facebook.com/bonisop),
     },
 };
 ```
