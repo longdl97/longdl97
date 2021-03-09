@@ -55,7 +55,4 @@ const aboutMe = {
     },
 };
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dino.gif?raw=true" />
-<img src="https://github.com/SP-XD/SP-XD/blob/main/this_page_is.gif?raw=true"  width="400"/>
