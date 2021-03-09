@@ -22,13 +22,14 @@ const aboutMe = {
         backEnd: {
             php: ["laravel"],
             js: ["Nodejs", "Express","Nestjs"],
-            python: ["Django",Django REST framework]
+            python: ["Django","Django REST framework"]
         },
         devOps: ["Docker🐳", "Apache","NGINX"],
         databases: ["MySql","MongoDB","Postgresql"],
         misc: ["Socket.IO","Cloudflare"],
     },
-    architecture: ["Progressive web applications", "Single page applications","Microservices"],
+    architecture: ["Progressive web applications", "Single page applications",
+    "Microservices"],
     experiences: [
         {
             name: "Free ....",
