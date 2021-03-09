@@ -26,9 +26,9 @@ const aboutMe = {
         },
         devOps: ["Docker🐳", "Apache","NGINX"],
         databases: ["MySql","MongoDB","Postgresql"],
-        misc: ["Socket.IO","Cloudflare","Microservices"],
+        misc: ["Socket.IO","Cloudflare"],
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications","Microservices"],
     experiences: [
         {
             name: "Free ....",
