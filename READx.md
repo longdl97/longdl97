@@ -11,7 +11,7 @@ const aboutMe = {
     pronouns: "He" | "Him",
     university: "Ha Noi university of science and technology (HUST)",
     code: ["PHP", "Javascript", "Python"],
-    framework:["Laravel", "Django", "Django REST framework",'Nestjs"],
+    framework:["Laravel", "Django", "Django REST framework","Nestjs"],
     askMeAbout: ["web dev", "tech","micrioservices","education"],
     technologies: {
         frontEnd: {
