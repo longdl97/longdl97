@@ -16,20 +16,19 @@ const aboutMe = {
     technologies: {
         frontEnd: {
             html: ["HTML5"],
-            js: ["Reactjs", "Nextjs","Jquerry"],
+            js: ["Reactjs", "Nextjs","Jquery"],
             css: ["Bootstrap","CSS","SCSS"]
         },
         backEnd: {
             php: ["laravel"],
-            js: ["Nodejs", "Express","Nestjs"],
+            js: ["Nodejs", "ExpressJS", "Nestjs"],
             python: ["Django","Django REST framework"]
         },
-        devOps: ["Docker🐳", "Apache","NGINX"],
-        databases: ["MySql","MongoDB","Postgresql"],
-        misc: ["Socket.IO","Cloudflare"],
+        devOps: ["Docker🐳", "Apache", "NGINX"],
+        databases: ["MySql", "MongoDB", "Postgresql"],
+        misc: ["Socket.IO", "Cloudflare"],
     },
-    architecture: ["Progressive web applications", "Single page applications",
-    "Microservices"],
+    architecture: ["Progressive web applications", "Single page applications", "Microservices"],
     experiences: [
         {
             name: "Lessonbox.io",
@@ -52,6 +51,7 @@ const aboutMe = {
     ],
     netWorks: {
         fb: ["Đinh Lê Long"](https://www.facebook.com/bonisop),
+        linkedin: ["Drake Dinh"](https://www.linkedin.com/in/drake-dinh-30bb50214/)
     },
 };
 ```
