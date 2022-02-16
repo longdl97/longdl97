@@ -32,7 +32,7 @@ const aboutMe = {
     "Microservices"],
     experiences: [
         {
-            name: "Free ....",
+            name: "Lessonbox.io",
             startDate: "03/2021",
             endDate: now(),
             job: "Back-end developer",
