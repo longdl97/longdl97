@@ -50,7 +50,7 @@ const aboutMe = {
         },
     ],
     netWorks: {
-        fb: ["Đinh Lê Long"](https://www.facebook.com/bonisop),
+        fb: ["Đinh Lê Long"](https://www.facebook.com/longdll),
         linkedin: ["Drake Dinh"](https://www.linkedin.com/in/drake-dinh-30bb50214/)
     },
 };
